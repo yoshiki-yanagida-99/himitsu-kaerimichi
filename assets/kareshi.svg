@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 120">
+  <!-- 仮の彼氏（後ろ姿）。本物の画像をもらったら差し替え -->
+  <rect x="18" y="76" width="10" height="38" rx="4" fill="#23232e"/>
+  <rect x="32" y="76" width="10" height="38" rx="4" fill="#23232e"/>
+  <ellipse cx="23" cy="115" rx="7" ry="4" fill="#ddd"/>
+  <ellipse cx="37" cy="115" rx="7" ry="4" fill="#ddd"/>
+  <path d="M44 44 Q56 56 60 72" fill="none" stroke="#2c3e6b" stroke-width="9" stroke-linecap="round"/>
+  <path d="M16 44 Q8 60 12 74" fill="none" stroke="#2c3e6b" stroke-width="9" stroke-linecap="round"/>
+  <rect x="13" y="36" width="34" height="46" rx="10" fill="#2c3e6b"/>
+  <circle cx="30" cy="22" r="14" fill="#1d1918"/>
+  <rect x="26" y="33" width="8" height="5" fill="#e4ad86"/>
+</svg>
