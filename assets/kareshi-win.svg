@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 480">
+  <!-- 彼氏（正面・ガッツポーズで大笑い）：黒T・黒ハーフパンツ・黒スニーカー -->
+  <ellipse cx="150" cy="470" rx="110" ry="9" fill="#000" opacity=".3"/>
+  <!-- legs (wide stance) -->
+  <path d="M104 400 L88 452" stroke="#e9b48f" stroke-width="22" stroke-linecap="round"/>
+  <path d="M196 400 L214 452" stroke="#dca37d" stroke-width="22" stroke-linecap="round"/>
+  <path d="M60 470 Q60 446 86 444 Q106 444 106 462 L106 470 Z" fill="#1c1b22"/>
+  <path d="M196 462 Q196 444 216 444 Q242 446 242 470 Z" fill="#1c1b22"/>
+  <rect x="58" y="466" width="50" height="6" rx="3" fill="#f2f2f4"/>
+  <rect x="194" y="466" width="50" height="6" rx="3" fill="#f2f2f4"/>
+  <!-- shorts -->
+  <path d="M90 344 L210 344 L226 412 L162 418 L150 380 L138 418 L74 412 Z" fill="#26252c"/>
+  <path d="M150 350 L150 380" stroke="#18171d" stroke-width="3"/>
+  <!-- neck -->
+  <rect x="130" y="178" width="40" height="40" rx="10" fill="#dca37d"/>
+  <!-- black tee -->
+  <path d="M84 238 Q96 214 128 210 L172 210 Q204 214 216 238 L246 290 L214 306 L212 352 L88 352 L86 306 L54 290 Z" fill="#232129"/>
+  <path d="M126 212 Q150 236 174 212" fill="none" stroke="#17161c" stroke-width="6" stroke-linecap="round"/>
+  <path d="M100 250 Q110 300 104 350" fill="none" stroke="#2e2c36" stroke-width="4"/>
+  <!-- small white chest logo -->
+  <path d="M174 250 L196 250 L192 258 L178 258 Z" fill="#f2f2f4"/>
+  <!-- flexing arms: upper arm out, fists pulled in at the belly -->
+  <path d="M68 292 Q60 330 96 338" fill="none" stroke="#e9b48f" stroke-width="26" stroke-linecap="round"/>
+  <path d="M232 292 Q244 330 206 336" fill="none" stroke="#dca37d" stroke-width="26" stroke-linecap="round"/>
+  <ellipse cx="74" cy="306" rx="16" ry="12" fill="#f0c19c"/>
+  <ellipse cx="226" cy="306" rx="16" ry="12" fill="#e6b08a"/>
+  <g>
+    <rect x="98" y="318" width="40" height="36" rx="14" fill="#f0c19c"/>
+    <path d="M106 326 L106 348 M116 324 L116 350 M126 326 L126 348" stroke="#d29a76" stroke-width="2.5" stroke-linecap="round"/>
+    <rect x="166" y="316" width="40" height="36" rx="14" fill="#e6b08a"/>
+    <path d="M174 324 L174 346 M184 322 L184 348 M194 324 L194 346" stroke="#c98f6b" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+  <!-- ears -->
+  <ellipse cx="80" cy="124" rx="12" ry="18" fill="#e9b48f"/>
+  <ellipse cx="220" cy="124" rx="12" ry="18" fill="#e9b48f"/>
+  <!-- face -->
+  <ellipse cx="150" cy="122" rx="70" ry="76" fill="#f2c4a0"/>
+  <ellipse cx="102" cy="150" rx="12" ry="7" fill="#ff8f8f" opacity=".4"/>
+  <ellipse cx="198" cy="150" rx="12" ry="7" fill="#ff8f8f" opacity=".4"/>
+  <!-- messy black hair, swept fringe -->
+  <path d="M74 132 Q62 50 120 32 Q154 22 190 34 Q240 54 226 132 Q222 100 208 86 L204 104 L192 82 L178 98 L168 76 L150 94 L134 72 L120 94 L108 78 L98 104 Q86 96 74 132 Z" fill="#17151b"/>
+  <path d="M96 40 L86 18 L112 30 L116 8 L136 26 L150 6 L162 26 L184 12 L184 32 L206 26 L198 44 Z" fill="#17151b"/>
+  <path d="M118 46 Q136 60 140 84 M170 44 Q184 58 186 80" fill="none" stroke="#2c2832" stroke-width="3" stroke-linecap="round"/>
+  <!-- raised brows -->
+  <path d="M104 98 Q118 88 132 96" fill="none" stroke="#17151b" stroke-width="6" stroke-linecap="round"/>
+  <path d="M168 96 Q182 88 196 98" fill="none" stroke="#17151b" stroke-width="6" stroke-linecap="round"/>
+  <!-- eyes squeezed shut from laughing -->
+  <path d="M106 120 Q118 112 130 122" fill="none" stroke="#2a1f1c" stroke-width="5.5" stroke-linecap="round"/>
+  <path d="M170 122 Q182 112 194 120" fill="none" stroke="#2a1f1c" stroke-width="5.5" stroke-linecap="round"/>
+  <!-- huge open laughing mouth -->
+  <path d="M116 150 Q150 146 184 150 Q182 196 150 200 Q118 196 116 150 Z" fill="#5a1f24"/>
+  <path d="M118 151 Q150 147 182 151 L180 162 Q150 158 120 162 Z" fill="#fff"/>
+  <ellipse cx="150" cy="186" rx="20" ry="11" fill="#ff6b7d"/>
+  <path d="M116 150 Q150 146 184 150 Q182 196 150 200 Q118 196 116 150 Z" fill="none" stroke="#6b3a2e" stroke-width="3"/>
+</svg>

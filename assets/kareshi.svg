@@ -1,12 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 120">
-  <!-- 仮の彼氏（後ろ姿）。本物の画像をもらったら差し替え -->
-  <rect x="18" y="76" width="10" height="38" rx="4" fill="#23232e"/>
-  <rect x="32" y="76" width="10" height="38" rx="4" fill="#23232e"/>
-  <ellipse cx="23" cy="115" rx="7" ry="4" fill="#ddd"/>
-  <ellipse cx="37" cy="115" rx="7" ry="4" fill="#ddd"/>
-  <path d="M44 44 Q56 56 60 72" fill="none" stroke="#2c3e6b" stroke-width="9" stroke-linecap="round"/>
-  <path d="M16 44 Q8 60 12 74" fill="none" stroke="#2c3e6b" stroke-width="9" stroke-linecap="round"/>
-  <rect x="13" y="36" width="34" height="46" rx="10" fill="#2c3e6b"/>
-  <circle cx="30" cy="22" r="14" fill="#1d1918"/>
-  <rect x="26" y="33" width="8" height="5" fill="#e4ad86"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 200">
+  <!-- 彼氏（後ろ姿で歩く）：黒髪ぼさぼさ・黒T・黒ハーフパンツ・黒スニーカー -->
+  <ellipse cx="50" cy="194" rx="34" ry="5" fill="#000" opacity=".35"/>
+  <!-- legs -->
+  <rect x="32" y="150" width="14" height="34" rx="6" fill="#e9b48f"/>
+  <rect x="54" y="150" width="14" height="34" rx="6" fill="#dca37d"/>
+  <path d="M28 182 Q30 176 40 176 Q50 177 50 186 L50 192 L28 192 Z" fill="#1c1b22"/>
+  <path d="M50 182 Q52 176 62 176 Q72 177 72 186 L72 192 L50 192 Z" fill="#1c1b22"/>
+  <rect x="27" y="189" width="24" height="4" rx="2" fill="#f2f2f4"/>
+  <rect x="49" y="189" width="24" height="4" rx="2" fill="#f2f2f4"/>
+  <!-- shorts -->
+  <path d="M27 122 L73 122 L76 158 L52 158 L50 146 L48 158 L24 158 Z" fill="#26252c"/>
+  <path d="M50 128 L50 146" stroke="#18171d" stroke-width="2"/>
+  <!-- arms -->
+  <path d="M26 86 Q18 104 20 122" fill="none" stroke="#e9b48f" stroke-width="9" stroke-linecap="round"/>
+  <path d="M72 88 Q90 98 99 112" fill="none" stroke="#e9b48f" stroke-width="9" stroke-linecap="round"/>
+  <!-- tee -->
+  <path d="M30 78 Q50 72 70 78 L82 96 L72 102 L72 128 L28 128 L28 102 L18 96 Z" fill="#232129"/>
+  <path d="M40 80 L44 128" stroke="#2e2c36" stroke-width="3"/>
+  <!-- neck + ears -->
+  <rect x="43" y="66" width="14" height="14" rx="4" fill="#dca37d"/>
+  <ellipse cx="22" cy="48" rx="5" ry="8" fill="#e9b48f"/>
+  <ellipse cx="78" cy="48" rx="5" ry="8" fill="#e9b48f"/>
+  <!-- messy hair from behind -->
+  <path d="M20 50 Q16 18 48 14 Q82 12 80 48 Q80 62 72 70 Q60 76 50 74 Q38 76 28 70 Q20 62 20 50 Z" fill="#17151b"/>
+  <path d="M26 22 L20 12 L34 16 L38 6 L48 14 L56 4 L60 14 L74 8 L72 20 L84 22 L76 30 Z" fill="#17151b"/>
+  <path d="M34 40 Q44 30 46 20 M56 38 Q62 28 60 18" fill="none" stroke="#2c2832" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M30 70 L34 78 L40 70 L46 78 L52 72 L58 78 L64 70 L70 76" fill="#17151b"/>
 </svg>
